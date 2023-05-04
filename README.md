@@ -1,12 +1,8 @@
 # Tropic
 
-Tropic is a travel themed website built entirely with React. We use custom hooks and react-router-dom.
+This is a scrobit Technology Task i didnot get enough time to take that on enhance level due to my current office work load and other suff
 
-## CodeFocus Channel
-
-This project's build walkthrough video can be accessed on the CodeFocus youtube channel. Heres a link:
-
-### `npm start`
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
