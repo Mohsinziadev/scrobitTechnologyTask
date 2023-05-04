@@ -1,6 +1,6 @@
 # Tropic
 
-This is a scrobit Technology Task i didnot get enough time to take that on enhance level due to my current office work load and other suff
+This is a scrobit Technology Task.I didnot get enough time to take that on enhance level due to my current office work load and other suff but here is the code .
 
 ### `yarn start`
 
